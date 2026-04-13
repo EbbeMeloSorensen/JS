@@ -125,3 +125,7 @@ test('Bla bla', () => {
 });
 
 // TODO: Overfør resten af eksemplerne fra sektion 2 af Jonas Schmedtmanns JavaScript course (https://www.udemy.com/course/the-complete-javascript-course/)
+
+// Hvad indebærer det at køre i strict mode? (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode)
+// Hvordan debugger man det her i en browser? (https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Debugging)
+// Hvordan debugger man det her under node? (https://nodejs.org/en/docs/guides/debugging-getting-started/)
